@@ -1,2 +1,1 @@
-# Go-groups-task-3-microservices-in-communication-for-warehouse-management
-A web service that exposes a rest api for managing store inventory. Built using a microservice architecture composed of three services: the user, inventory and ui services. All these services are implemented in spring boot with Feign rest client for making calls to services, Eureka Naming server for service discovery and API gateway for request filtering, mapping and routing
+
